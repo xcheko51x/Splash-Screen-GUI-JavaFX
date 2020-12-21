@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="splashscreen_javafx.FXMLDocumentController">
+    <children>
+        <Label fx:id="label" alignment="CENTER" contentDisplay="CENTER" layoutX="126" layoutY="120" minHeight="16" minWidth="69" text="MENU PRINCIPAL" textAlignment="CENTER" AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="50.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="50.0">
+         <font>
+            <Font size="24.0" />
+         </font></Label>
+    </children>
+</AnchorPane>
